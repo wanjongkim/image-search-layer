@@ -1,4 +1,4 @@
-
+<html>
     <body>
       <div class="container">
         <div class="jumbotron text-center">
@@ -19,3 +19,4 @@
         </div>
       </div>
   </body>
+</html>
